@@ -1,0 +1,12 @@
+
+*.sqlite3
+*.pyc
+.DS_Store
+.vscode
+
+settings_prod.py
+
+*.bz2
+
+_*
+node_modules
