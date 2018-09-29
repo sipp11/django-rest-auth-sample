@@ -8,5 +8,4 @@ settings_prod.py
 
 *.bz2
 
-_*
 node_modules
